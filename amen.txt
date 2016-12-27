@@ -1,3 +1,7 @@
 how r u amen
+<<<<<<< HEAD
 
 hey dude.jhbknd
+=======
+hey dude ... whatsp
+>>>>>>> 8bcc440a1e0487292e21e317fbacd76e93a12533
